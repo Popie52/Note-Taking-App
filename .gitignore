@@ -1,0 +1,4 @@
+%APPDATA%npm-cache
+node_modules
+requests
+package-lock.json
